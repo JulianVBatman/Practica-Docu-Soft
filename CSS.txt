@@ -1,0 +1,69 @@
+CSS
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+a:hover {
+  color: #000;
+}
+
+.categorias li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.productos img {
+  width: 100px;
+  height: 100px;
+}
+
+.productos h3 {
+  margin-top: 5px;
+}
+
+.productos p {
+  margin-bottom: 5px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
